@@ -6,15 +6,15 @@
 }
 
 .hStyle1{
-font-size: 1.5em;/* フォントサイズ */
-font-weight: bold;/* フォント太さ */
-padding-top: 1em;
-padding-bottom: 1em;
-margin-bottom: 2em;
-border-top: 3px solid #3f9613;/* 上の線 */
-border-bottom: 3px solid #409614;/* 下の線 */
-color: #409614;/* フォント色 */
-text-align: center;/* テキストの位置 */
+  font-size: 1.5em;/* フォントサイズ */
+  font-weight: bold;/* フォント太さ */
+  padding-top: .5em;
+  padding-bottom: .5em;
+  padding-left: .5em;
+  margin-bottom: 2em;
+  border-left: 20px solid #3f9613/* 線 */
+  background-color: #DAFFD8;/* 背景色 */
+  color: #409614;/* フォント色 */
 }
 
 body {
