@@ -5,10 +5,9 @@ img {
 
 h1, {
   font-family: "Noto Serif CJK JP";
-  font-size: 2rem;
+  font-size: 36px;
 }
 
 body {
   touch-action: none;
-  font-size: 8px;
 }
