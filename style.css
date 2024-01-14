@@ -6,6 +6,10 @@
   padding: 4px;
 }
 
+.imgStyle1 img {
+	border-radius: 10px;
+}
+
 .hStyle1{
 font-size: 1.5em;/* フォントサイズ */
 font-weight: bold;/* フォント太さ */
