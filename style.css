@@ -16,3 +16,7 @@ border-bottom: 3px solid #409614;/* 下の線 */
 color: #409614;/* フォント色 */
 text-align: center;/* テキストの位置 */
 }
+
+body {
+  font-family: "Noto Sans JP";
+}
