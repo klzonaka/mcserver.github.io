@@ -3,6 +3,12 @@ img {
   height: 100%;
 }
 
-h1, h2 {
+h1, {
   font-family: "Noto Serif CJK JP";
+  font-size: 2rem;
+}
+
+body {
+  touch-action: none;
+  font-size: 8px;
 }
