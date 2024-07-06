@@ -115,7 +115,7 @@ html {
     .mbnav nav a:hover {
         text-decoration: none;
         background-color: var(--header-focus);
-        border-radius: 50px;
+        border-radius: 20px;
     }
 
     /* Hover */
@@ -222,7 +222,7 @@ html {
     .header nav a:hover {
         text-decoration: none;
         background-color: var(--header-focus);
-        border-radius: 50px;
+        border-radius: 20px;
     }
 
     /* Hover */
@@ -301,7 +301,7 @@ button {
     white-space: nowrap;
     background-color: transparent;
     border: 1px solid var(--link-color);
-    border-radius: 50px;
+    border-radius: 20px;
     cursor: pointer;
     box-sizing: border-box;
 }
@@ -456,7 +456,7 @@ p.center {
 .imgHolder img {
     height: auto;
     width: 50%;
-    border-radius: 50px;
+    border-radius: 20px;
 }
 
 .imgHolder .text {
@@ -477,7 +477,7 @@ p.center {
 .imgHolderReverse img {
     height: auto;
     width: 50%;
-    border-radius: 50px;
+    border-radius: 20px;
 }
 
 .imgHolderReverse .text {
@@ -513,7 +513,7 @@ p.center {
     .imgHolderReverse img {
         height: auto;
         width: 100%;
-        border-radius: 50px;
+        border-radius: 20px;
     }
 }
 
@@ -542,7 +542,7 @@ p.center {
     position: relative;
     overflow: hidden;
     margin: 0 auto;
-    border-radius: 50px;
+    border-radius: 20px;
 }
 
 .img-frame {
