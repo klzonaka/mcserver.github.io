@@ -80,3 +80,7 @@ document.getElementById("pageTop").addEventListener("click", () => {
         behavior: 'smooth'
     });
 });
+
+window.onload = function () {
+    history.scrollRestoration = 'auto';
+};
